@@ -7,7 +7,7 @@ import os
 import platform
 
 IS_WINDOWS = platform.system() == 'Windows'
-
+#I named the functions as if i am 7 and i want to act serious🥀
 if IS_WINDOWS:
     import win32gui
     import win32ui
